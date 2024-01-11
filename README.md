@@ -21,7 +21,7 @@ Here is a list of projects included in this repository:
 1. **Car Price Prediction using Linear and Lasso Regression**
    - Description: Implement a Linear Regression to find out the price of cars.
    - Libraries: Scikit-learn, Pandas, Numpy
-   - [Link to Project](/Car Price Prediction)
+   - [Link to Project](https://github.com/anson10/Machine-Learning-Projects/tree/main/Car%20Price%20Prediction)
 
 ...
 
