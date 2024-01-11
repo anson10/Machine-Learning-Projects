@@ -15,3 +15,10 @@ Welcome to the "Machine Learning Projects" repository! This repository contains 
 Machine learning is a fascinating field that has the potential to transform industries and solve complex problems. This repository aims to provide a curated list of machine learning projects covering different domains and applications. Each project is accompanied by documentation and code to help you understand the implementation details.
 
 ## Projects
+
+Here is a list of projects included in this repository:
+
+1. **Car Price Prediction using Linear and Lasso Regression**
+   - Description: Implement a Linear Regression to find out the price of cars.
+   - Libraries: Scikit-learn, Pandas, Numpy
+   - [Link to Project](/projects/image_classification)
