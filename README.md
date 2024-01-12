@@ -37,7 +37,7 @@ To get started with any project, follow these steps:
 git clone https://github.com/anson10/Machine-Learning-Projects.git
 ```
 
-### Contributing Code
+## Contributing Code
 
 1. Fork the repository and create your branch:
 
