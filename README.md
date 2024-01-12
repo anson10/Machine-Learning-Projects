@@ -34,8 +34,8 @@ To get started with any project, follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/anson10/Machine-Learning-Projects.git
-```
+   git clone https://github.com/anson10/Machine-Learning-Projects.git
+   ```
 
 ## Contributing Code
 
