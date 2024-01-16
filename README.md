@@ -23,7 +23,10 @@ Here is a list of projects included in this repository:
    - Libraries: Scikit-learn, Pandas, Numpy
    - [Link to Project](https://github.com/anson10/Machine-Learning-Projects/tree/main/Car%20Price%20Prediction)
 
-...
+2. **Heart Disease Prediction**
+   - Description: Implement a Decision Tree Classifier to detect whether the patient has a heart disease or not.
+   - Libraries: Scikit-learn, Pandas, Numpy
+   - [Link to Project](https://github.com/anson10/Machine-Learning-Projects/tree/main/Heart%20Disease%20Prediction)
 
 Feel free to explore each project folder for more details and instructions on how to run the code.
 
@@ -33,7 +36,7 @@ To get started with any project, follow these steps:
 
 1. Clone the repository to your local machine:
 
-```bash
+   ```bash
    git clone https://github.com/anson10/Machine-Learning-Projects.git
    ```
 
