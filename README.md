@@ -28,6 +28,11 @@ Here is a list of projects included in this repository:
    - Libraries: Scikit-learn, Pandas, Numpy
    - [Link to Project](https://github.com/anson10/Machine-Learning-Projects/tree/main/Heart%20Disease%20Prediction)
 
+3. **Fake News Prediction using Logistic Regression**
+   - Description: Implement a Logistic Regression Model to detect whether the article is fake or not.
+   - Libraries: Scikit-learn, Pandas, Numpy, nltk
+   - [Link to Project](https://github.com/anson10/Machine-Learning-Projects/blob/main/Fake%20News%20Prediction/Fake_News_Prediction.ipynb)
+
 Feel free to explore each project folder for more details and instructions on how to run the code.
 
 ## Getting Started
